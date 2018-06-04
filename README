@@ -1,0 +1,27 @@
+Tools and Technologies used:
+Java 8
+Maven
+SLF4J
+GitHUb
+Rest Assured framework for api automation
+IntelliJ IDEA IDE
+cucumber
+
+
+
+How to Run All tests  at a time in MAC:
+-> go to inside project
+-> open mac terminal
+-> enter mvn test
+
+
+How to Run one testcase  at a time in MAC:
+-> go to inside project
+ src->test->java->runner
+-> run Runner class, run as testng test
+
+for test reports after tests execution
+-> go to inside project
+ target->Destination->index.html
+
+
