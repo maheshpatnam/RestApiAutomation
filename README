@@ -18,9 +18,9 @@ How to Run All tests  at a time in MAC:
 How to Run one testcase  at a time in MAC:
 -> go to inside project
  src->test->java->runner
--> run Runner class, run as testng test
+-> run Runner class
 
-for test reports after tests execution
+Test reports after test execution
 -> go to inside project
  target->Destination->index.html
 
